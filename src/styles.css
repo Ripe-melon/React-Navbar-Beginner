@@ -7,4 +7,6 @@
 .App {
   font-family: sans-serif;
   text-align: center;
+  flex: content;
+  justify-content: space-between;
 }
